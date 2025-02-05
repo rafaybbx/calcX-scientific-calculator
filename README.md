@@ -2,6 +2,10 @@
 
 A feature-rich scientific calculator built in Java with a modern graphical user interface. This calculator supports various mathematical operations, trigonometric functions, and different number systems.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/43ff0a3a-80a5-443c-a206-d7b7d3ecc919" alt="scientific calculator GIF">
+</p>
+
 ## Features
 
 ### Basic Operations
